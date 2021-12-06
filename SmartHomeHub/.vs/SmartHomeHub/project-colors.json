@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "f5285121-111f-4f5b-820f-cb62801fb772": {
+      "ProjectGuid": "f5285121-111f-4f5b-820f-cb62801fb772",
+      "DisplayName": "SmartHomeHub",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
